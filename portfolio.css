@@ -663,6 +663,8 @@ html{
 .content-abt{
     margin-top:8rem;
     width:46%;
+    margin: auto;
+    padding-top: 3rem;
 }
 
 .content-abt p{
