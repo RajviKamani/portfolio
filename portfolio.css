@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
 
 .main-content{
-    max-width: 1090px;
+    max-width: 1200px;
     margin: auto;
     font-family: 'Poppins', sans-serif!important;
 }
@@ -172,6 +172,14 @@ html{
     height: 600px;
 }
 
+/* .home-img{
+    margin-left: 5rem;
+} */
+
+.home-content{
+    width:51%;
+}
+
 @media screen and (max-width:600px) {
     body{
         overflow-x: hidden;
@@ -191,7 +199,7 @@ html{
         margin-left: 0rem;
     }
     .navbar-brand{
-        margin-left: 0rem;
+        margin-left: 2rem;
     }
     .background{
         height: auto;
@@ -379,7 +387,7 @@ html{
         margin-left: auto;
     }
     .navbar-brand{
-        margin-left: 0rem;
+        margin-left: 2rem;
     }
     .background{
         margin-left: 0px;
@@ -501,14 +509,21 @@ html{
         padding: 100px;
     }
     .navbar-brand{
-        margin-left: 0rem!important;
+        margin-left: 2rem;
     }
-
+    .home-content{
+        width:51%;
+    }
     .image{
         width: 474px;
         height: 470px;
     }
-    
+    .home-img{
+        margin-left: auto;
+    }
+    .about{
+        padding-top: 70px!important;
+    }
     .navbar-collapse{
         background-color: #f7f8f9;
         padding: 20px;
@@ -571,7 +586,7 @@ html{
         margin-top: 6rem;
     }
     .navbar-brand{
-        margin-left: 0rem;
+        margin-left: 2rem;
     }
     .navbar-nav{
         margin-right: 0px;
@@ -609,7 +624,9 @@ html{
     .contact-form {
         margin-left: 6rem;
     }
-    
+    .navbar-brand{
+        margin-left: 9rem;
+    }
                                                                                                             
 }
 
