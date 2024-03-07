@@ -185,7 +185,7 @@ html{
     body{
         overflow-x: hidden;
     }
-    
+
     .navbar-collapse{
         background-color: #f7f8f9;
         padding: 20px;
@@ -1122,37 +1122,4 @@ footer h3{
 
 .copyright strong{
     font-weight: bolder;
-}
-
-
-
-
-element {
-}
-
-
-
-@media (min-width: 1200px) {
-  .container {
-    max-width: 100%!important;
-
-  }
-}
-@media (min-width: 992px) {
-  .container {
-    max-width: 100%!important;
-
-  }
-}
-@media (min-width: 768px) {
-  .container {
-    max-width: 100%!important;
-
-  }
-}
-@media (min-width: 576px) {
-  .container {
-    max-width: 100%!important;
-
-  }
 }
