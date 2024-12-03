@@ -197,7 +197,7 @@ html{
     }
 
     .main-content{
-        margin-left: 0rem;
+        /* margin-left: 0rem; */
     }
     .navbar-brand{
         margin-left: 2rem;
@@ -385,7 +385,7 @@ html{
 
 
     .main-content{
-        margin-left: auto;
+        /* margin-left: auto; */
     }
     .navbar-brand{
         margin-left: 2rem;
